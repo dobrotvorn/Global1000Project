@@ -115,10 +115,10 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-.chatGPTtoken
+
 # SageMath parsed files
 *.sage.py
-
+/chatGPTtoken.txt
 # Environments
 .env
 .venv
