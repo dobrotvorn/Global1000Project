@@ -118,8 +118,6 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-/chatGPTtoken.txt
-chatGPTtoken.txt/
 # Environments
 .env
 .venv
